@@ -9,9 +9,9 @@
 
 ##Skills and Experience
 * 💻 HTML <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
-* 💻 CSS <img height="32" width="32" src="https://simpleicons.org/icons/html5.svg" />
-* 💻 JS
-* 💻 PYTHON
+* 💻 CSS <img height="32" width="32" src="https://simpleicons.org/icons/css3.svg" />
+* 💻 JS <img height="32" width="32" src="https://simpleicons.org/icons/js.svg" />
+* 💻 PYTHON <img height="32" width="32" src="https://simpleicons.org/icons/python.svg" />
 
 <br>
 
