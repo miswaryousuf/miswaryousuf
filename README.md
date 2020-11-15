@@ -8,10 +8,10 @@
 - ⚡ Fun fact: I love to mess with codes
 
 ##Skills and Experience
-* 💻 HTML <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
-* 💻 CSS <img height="32" width="32" src="https://simpleicons.org/icons/css3.svg" />
-* 💻 JS <img height="32" width="32" src="https://simpleicons.org/icons/js.svg" />
-* 💻 PYTHON <img height="32" width="32" src="https://simpleicons.org/icons/python.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
+<img height="32" width="32" src="https://simpleicons.org/icons/css3.svg" />
+<img height="32" width="32" src="https://simpleicons.org/icons/javascript.svg" />
+<img height="32" width="32" src="https://simpleicons.org/icons/python.svg" />
 
 <br>
 
