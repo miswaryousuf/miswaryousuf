@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miswaryousuf&show_icons=true&locale=en" alt="miswaryousuf" /></p>
 
-[![Spotify](https://spotify-6raeuui26.vercel.app/api/spotify)](https://open.spotify.com/user/c8z75w5t2g7xq0739papz10hr)
+
